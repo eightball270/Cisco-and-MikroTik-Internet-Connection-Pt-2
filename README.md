@@ -1,1 +1,2 @@
 # Cisco and MikroTik Internet Connection Pt.2
+This simulation is a modification of the [previous one](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/?tab=readme-ov-file#cisco-and-mikrotik-internet-connection), where two routers are used. Some clients are still connected to the internet, even though the router directly connected to the client is not directly connected to the ISP.
