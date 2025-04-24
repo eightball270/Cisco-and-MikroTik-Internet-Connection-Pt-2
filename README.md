@@ -33,3 +33,9 @@ PC1 from the network address 192.168.170.0/25 (VLAN 10) is still able to access 
 
 ![Internet Connection Pt.2 (Cisco) (1).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco)%20(1).png)
 ![Internet Connection Pt.2 (Cisco) (2).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco)%20(2).png)
+
+Meanwhile, PC3 from the network address 192.168.170.128/25 (VLAN 20) does not have internet access.
+
+![Internet Connection Pt.2 (Cisco) (3).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco)%20(3).png)
+
+### MikroTik
