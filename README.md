@@ -42,3 +42,14 @@ Meanwhile, PC3 from the network address 192.168.170.128/25 (VLAN 20) does not ha
 In Mikrotik, internet access for several clients can be limited based on network addresses by creating a firewall NAT rule that grants internet access to only one network address. Other network addresses will automatically be denied internet access, as they have not been granted permission. In this case, only the 192.168.150.128/25 (VLAN 20) network address is configured to have internet access, while all other network addresses are unable to access the internet.
 
 ![Internet Connection Pt.2 (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik).png)
+
+[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik).gns3project.7z) (extract the file first)
+
+PC1 from the network address 192.168.150.0/25 (VLAN 10), does not have internet access because the network address has not been granted permission to access the internet.
+
+![Internet Connection Pt.2 (MikroTik) (1).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik)%20(1).png)
+
+Meanwhile, PC4 from the network address 192.168.150.128/25 (VLAN 20) has internet access.
+
+![Internet Connection Pt.2 (MikroTik) (2).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik)%20(2).png)
+![Internet Connection Pt.2 (MikroTik) (3).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik)%20(3).png)
