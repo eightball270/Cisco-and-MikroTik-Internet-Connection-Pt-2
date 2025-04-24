@@ -27,6 +27,8 @@ Unlike the [previous configuration](https://github.com/eightball270/Cisco-and-Mi
 
 ![Internet Connection Pt.2 (Cisco).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco).png)
 
+Project File Link : [Part1](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco).gns3project.part1.rar) and [Part2](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco).gns3project.part2.rar) (extract the separate archives into a single project file)
+
 PC1 from the network address 192.168.170.0/25 (VLAN 10) is still able to access the internet.
 
 ![Internet Connection Pt.2 (Cisco) (1).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco)%20(1).png)
