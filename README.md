@@ -25,6 +25,8 @@ This simulation also demonstrates how to restrict certain clients from connectin
 ### Cisco
 Unlike the [previous configuration](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection/blob/main/README.md#cisco) where all clients have internet access, the ACL on the Cisco router is now configured to prevent the network address 192.168.170.128/25 from accessing the internet.
 
+![Internet Connection Pt.2 (Cisco).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco).png)
+
 PC1 from the network address 192.168.170.0/25 is still able to access the internet.
 
 ![Internet Connection Pt.2 (Cisco) (1).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/Cisco/Internet%20Connection%20Pt.2%20(Cisco)%20(1).png)
