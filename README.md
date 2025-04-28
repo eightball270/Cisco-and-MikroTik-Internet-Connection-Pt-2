@@ -43,7 +43,7 @@ In Mikrotik, internet access for several clients can be limited based on network
 
 ![Internet Connection Pt.2 (MikroTik).png](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik).png)
 
-[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik).gns3project.7z) (extract the file first)
+[Project File Link](https://github.com/eightball270/Cisco-and-MikroTik-Internet-Connection-Pt-2/blob/main/MikroTik/Internet%20Connection%20Pt.2%20(MikroTik).gns3project.rar) (extract the file first)
 
 PC1 from the network address 192.168.150.0/25 (VLAN 10), does not have internet access because the network address has not been granted permission to access the internet.
 
