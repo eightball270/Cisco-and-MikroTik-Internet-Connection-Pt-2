@@ -11,7 +11,7 @@ This simulation also demonstrates how to restrict certain clients from connectin
 2. Client PCs
 3. NAT cloud as ISP
 
-## Configuration Completed
+## Configuration Done
 1. DHCP client on the main router interface that connects to the ISP
 2. Inter-router connection
 3. VLANs on client router and switch
