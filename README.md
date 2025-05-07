@@ -3,10 +3,10 @@ This simulation is a modification of the [previous one](https://github.com/eight
 
 This simulation also demonstrates how to restrict certain clients from connecting to the internet based on their network addresses using traffic filters.
 
-## Technology Used
+## Simulator Used
 - GNS3
 
-## Requirements
+## Requirement Nodes
 1. 2 routers and a switch
 2. Client PCs
 3. NAT cloud as ISP
